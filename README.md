@@ -5,8 +5,15 @@
   arriba de tus repositorios en https://github.com/alejandro-villa-dev
 -->
 
-<h1 align="center">¡Hola! Soy Alejandro Villa 👋</h1>
-<h3 align="center">Analista TI & Soporte N1/N2 · Desarrollador Frontend Jr</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:9333EA&height=220&section=header&text=Alejandro%20Villa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20TI%20%26%20Soporte%20N1%2FN2%20%C2%B7%20Desarrollador%20Frontend%20Jr&descAlignY=55&descSize=18" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="image/yo.png" alt="Alejandro Villa" width="150" style="border-radius:50%;" />
+</p>
+
+<h3 align="center">¡Hola! Soy Alejandro Villa 👋</h3>
 
 <p align="center">
   Soporte técnico, ITSM e infraestructura, combinado con desarrollo web
@@ -53,6 +60,30 @@ Disponible para trabajo **100% remoto**.
 
 **Soporte e infraestructura:** Active Directory · GLPI · ServiceNow ·
 Windows Server · TCP/IP · Mesa de ayuda bajo SLA
+
+### 🎓 Título y credenciales
+
+<p align="center">
+  <a href="https://certificadovalida.duoc.cl/ValidacionQr?id=1649840354">
+    <img src="image/titulo firma y timbre.png" alt="Sello y firma - Título Duoc UC" width="220" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://acreditta.com/credential/6c865bcb-91f2-44fe-908e-1c512c71cfff">
+    <img src="image/python.png" alt="Insignia Talento Digital - Python Full Stack Trainee" width="260" />
+  </a>
+</p>
+
+**Ingeniería en Informática – Duoc UC (2020–2025)**
+Título verificable mediante sistema oficial de validación QR de Duoc UC.
+[Verificar título](https://certificadovalida.duoc.cl/ValidacionQr?id=1649840354)
+> Nota para procesos en México: en Chile no se utiliza una cédula profesional
+> equivalente a la mexicana como documento estándar para acreditar este
+> título. La autenticidad puede verificarse mediante el QR oficial de Duoc UC
+> y el enlace indicado.
+
+**Python Full Stack Trainee – ECAS Otec / SENCE (Finalizado 2026)**
+Credencial digital verificable en Acreditta.
+[Ver credencial](https://acreditta.com/credential/6c865bcb-91f2-44fe-908e-1c512c71cfff)
 
 ### 📌 Proyectos destacados
 
