@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:9333EA&height=220&section=header&text=Alejandro%20Villa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20TI%20%26%20Soporte%20N1%2FN2%20%C2%B7%20Desarrollador%20Frontend%20Jr&descAlignY=55&descSize=18" alt="Banner" width="100%" />
+  <img src="image/banner.svg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
